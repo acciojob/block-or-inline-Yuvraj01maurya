@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.block-inline-div {
+            display: block;
+        }
+
+        .block-inline-button,
+        .block-inline-p,
+        .block-inline-cite,
+        .block-inline-code,
+        .block-inline-h1 {
+            display: inline;
+        }
+
+        .block-inline-span,
+        .block-inline-input,
+        .block-inline-sup,
+        .block-inline-sub {
+            display: inline;
+        }
